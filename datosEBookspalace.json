@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "The Haunting of Hill House",
+    "editorial": "A",
+    "category": "Terror",
+    "author": "Shirley Jackson",
+    "price": 10,
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/49/2b/492b222b205fcfd109a067e6afad5a3d.jpg",
+    "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.",
+    "file": "my_file_1.epub"
+  },
+  {
+    "id": 2,
+    "name": "It",
+    "editorial": "B",
+    "category": "Terror",
+    "author": "Stephen King",
+    "price": 5,
+    "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/75/1a/751a104ecc4eb34bf44886a31af7fa9d.jpg",
+    "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "file": "my_file_2.epub"
+  },
+  {
+    "id": 3,
+    "name": "The Shining",
+    "editorial": "C",
+    "category": "Terror",
+    "author": "Stephen King",
+    "price": 11,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn9BzzVeYaPy4oJeSqpufW3C-hxDFvzR8RSQ&s",
+    "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+    "file": "my_file_3.epub"
+  },
+  {
+    "id": 4,
+    "name": "The Case Against Satan",
+    "editorial": "D",
+    "category": "Terror",
+    "author": "Ray Russell",
+    "price": 14,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K_Zdk2QrfVIIZNccPVaGeIT9Rf3p9bPVYA&s",
+    "description": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+    "file": "my_file_4.epub"
+  },
+  {
+    "id": 5,
+    "name": "Save Yourself",
+    "editorial": "E",
+    "category": "Comedy",
+    "author": "Cameron Esposito",
+    "price": 6,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/b8/88/37e56c045d96fe779e3d46531f33f602.jpg",
+    "description": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.",
+    "file": "my_file_5.epub"
+  },
+  {
+    "id": 6,
+    "name": "So Lucky",
+    "editorial": "F",
+    "category": "Comedy",
+    "author": "Dawn O’Porter",
+    "price": 18,
+    "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/b9/3c/b93c30b72b8c20f3546ba4b7a1c52656.jpg",
+    "description": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+    "file": "my_file_6.epub"
+  },
+  {
+    "id": 7,
+    "name": "Life in the Stupidverse",
+    "editorial": "G",
+    "category": "Comedy",
+    "author": "Tom Tomorrow",
+    "price": 6,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_736787-MLA72967530166_112023-O.webp",
+    "description": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+    "file": "my_file_7.epub"
+  },
+  {
+    "id": 8,
+    "name": "A Wealth of Pigeons",
+    "editorial": "H",
+    "category": "Comedy",
+    "author": "Steve Martin",
+    "price": 9,
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/3d/2e/3d2ef111e721b9464adc9f2aa069cd3b.jpg",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+    "file": "my_file_8.epub"
+  },
+  {
+    "id": 9,
+    "name": "Outlive: The Science and Art of Longevity",
+    "editorial": "I",
+    "category": "Self-Help",
+    "author": "Peter Attia",
+    "price": 8,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_653565-MLA75507181875_032024-O.webp",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
+    "file": "my_file_9.epub"
+  },
+  {
+    "id": 10,
+    "name": "The Four Agreements",
+    "editorial": "J",
+    "category": "Self-Help",
+    "author": "don Miguel Ruiz",
+    "price": 13,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_792620-MLM42538450868_072020-O.webp",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "file": "my_file_10.epub"
+  },
+  {
+    "id": 11,
+    "name": "Greenlights",
+    "editorial": "K",
+    "category": "Self-Help",
+    "author": "Matthew McConaughey",
+    "price": 16,
+    "image": "https://m.media-amazon.com/images/I/51+ZemJZnUL.jpg",
+    "description": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+    "file": "my_file_11.epub"
+  },
+  {
+    "id": 12,
+    "name": "The Power of Now: A Guide to Spiritual Enlightenment",
+    "editorial": "L",
+    "category": "Self-Help",
+    "author": "Eckhart Tolle",
+    "price": 11,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/64/65/646518b627e363ad6ad7f41bfa0896f3.jpg",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+    "file": "my_file_12.epub"
+  },
+  {
+    "id": 13,
+    "name": "Campus Free Speech",
+    "editorial": "M",
+    "category": "Education",
+    "author": "Cass R. Sunstein",
+    "price": 16,
+    "image": "https://m.media-amazon.com/images/I/81N+1Vis2fL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+    "file": "my_file_13.epub"
+  },
+  {
+    "id": 14,
+    "name": "Academic Freedom",
+    "editorial": "N",
+    "category": "Education",
+    "author": "David M. Rabban",
+    "price": 20,
+    "image": "https://m.media-amazon.com/images/I/61LabtHxFXL._AC_UF1000,1000_QL80_.jpg",
+    "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+    "file": "my_file_14.epub"
+  },
+  {
+    "id": 15,
+    "name": "Learning to Imagine",
+    "editorial": "O",
+    "category": "Education",
+    "author": "Andrew Shtulman",
+    "price": 18,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/dc/54/dc54141fee3ac921b44105dd29f322d5.jpg",
+    "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+    "file": "my_file_15.epub"
+  },
+  {
+    "id": 16,
+    "name": "Off the Mark",
+    "editorial": "P",
+    "category": "Education",
+    "author": "Jack Schneider",
+    "price": 10,
+    "image": "https://m.media-amazon.com/images/I/41rAMSWno+L.jpg",
+    "description": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+    "file": "my_file_16.epub"
+  },
+  {
+    "id": 17,
+    "name": "Icebreaker",
+    "editorial": "Q",
+    "category": "Romance",
+    "author": "Hannah Grace",
+    "price": 11,
+    "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/00/74/0074eb918fb013563f627e5219b47fde.jpg",
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+    "file": "my_file_17.epub"
+  },
+  {
+    "id": 18,
+    "name": "The Dixon Rule",
+    "editorial": "R",
+    "category": "Romance",
+    "author": "Elle Kennedy",
+    "price": 5,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/b1/81/b1815852cba23af99bed5e2449d43283.jpg",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
+    "file": "my_file_18.epub"
+  },
+  {
+    "id": 19,
+    "name": "Happy Place",
+    "editorial": "S",
+    "category": "Romance",
+    "author": "Emily Henry",
+    "price": 19,
+    "image": "https://images.cdn1.buscalibre.com/fit-in/360x360/b9/12/b912414debe8714c8987f3cca9886357.jpg",
+    "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "file": "my_file_19.epub"
+  },
+  {
+    "id": 20,
+    "name": "Funny Story",
+    "editorial": "T",
+    "category": "Romance",
+    "author": "Emily Henry",
+    "price": 6,
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/47/51/47517d13d715d2784d4b3f51149a4afd.jpg",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+    "file": "my_file_20.epub"
+  }
+]

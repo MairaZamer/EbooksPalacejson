@@ -218,5 +218,116 @@
     "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/47/51/47517d13d715d2784d4b3f51149a4afd.jpg",
     "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
     "file": "my_file_20.epub"
+  },
+  {
+    "id": 21,
+    "name": "Pride and prejudice",
+    "editorial": "T",
+    "category": "Romance",
+    "author": "Jane Austen",
+    "price": 6,
+    "image": "https://images.cdn3.buscalibre.com/fit-in/360x360/46/6b/466b0b47e932561b186c56358acbe55e.jpg",
+    "description": "Elizabeth Bennet meets the handsome and wealthy Mr. Darcy, with whom she quickly begins an intense and complex relationship.",
+    "file": "my_file_21.epub"
+  },
+  {
+    "id": 22,
+    "name": "Love, women and life",
+    "editorial": "T",
+    "category": "Poesía",
+    "author": "Mario Benedetti",
+    "price": 8,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/6d/56/6d561ab4ef0ca1439cdff370af526477.jpg",
+    "description": "This book brings together the best love poems by Mario Benedetti. Many of them are on the lips of people, who remember them by heart or have them in mind when scribbling a verse; others have become songs and even graffiti.",
+    "file": "my_file_22.epub"
+  },
+  {
+    "id": 23,
+    "name": "Almudena",
+    "editorial": "T",
+    "category": "Poesía",
+    "author": "Luis García Montero",
+    "price": 8,
+    "image": "https://www.planetadelibros.com.ar/usuaris/libros/fotos/396/m_libros/395591_portada_almudena_luis-garcia-montero_202403070940.jpg",
+    "description": "The final chapter of a beautiful and long love story. When Luis García Montero wrote, to tell of his wife's convalescence and farewell , the writer ...",
+    "file": "my_file_23.epub"
+  },
+  {
+    "id": 24,
+    "name": "Checks, flowers and lies are accepted",
+    "editorial": "T",
+    "category": "Poesía",
+    "author": "Luis Alberto de Cuenca",
+    "price": 8,
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513999720i/37656858.jpg",
+    "description": "A selection of loving poems, sometimes treacherous, always funny and caustic, by the cult poet and National Poetry Prize winner Luis Alberto de Cuenca. Everything that is owed, is bought or sold. Everything that is loved or unloved. What is in doubt. Which, directly, is not true.",
+    "file": "my_file_24.epub"
+  },
+  {
+    "id": 25,
+    "name": "Los Güemes",
+    "editorial": "H",
+    "category": "Biografía",
+    "author": "Felipe Pigna",
+    "price": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRibcO-oTDeSAvAxYLnNN70tTr0_3H0Ae1Buw&s",
+    "description": "A fascinating biography and meticulous research. In the fight during the English Invasions he carried out the incredible feat of taking a ship on horseback. He immediately adhered to the ideals of the May Revolution. ...",
+    "file": "my_file_25.epub"
+  },
+
+  {
+    "id": 26,
+    "name": "Matilda",
+    "editorial": "T",
+    "category": "Literatura infantil",
+    "author": "Roald Dahl",
+    "price": 10,
+    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/a4/f8/a4f812099b7904408748ee98915dcb0e.jpg",
+    "description": "Matilda is the title of a book written by Roald Dahl. It was initially published in 1988 in London by Jonathan Cape, with illustrations by Quentin Blake.",
+    "file": "my_file_26.epub"
+  },
+  {
+    "id": 27,
+    "name": "The little Prince",
+    "editorial": "A",
+    "category": "Literatura infantil",
+    "author": "Antoine de Saint-Exupéry",
+    "price": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyjpvH7MiCwVxI8jMqFsnpAbMAL6xy03lzQ&s",
+    "description": "The Little Prince is a short novel and the most famous work of the French writer and aviator Antoine de Saint-Exupéry.",
+    "file": "my_file_27.epub"
+  },
+  {
+    "id": 28,
+    "name": "The secret Garden",
+    "editorial": "L",
+    "category": "Literatura infantil",
+    "author": "Frances Hodgson Burnett",
+    "price": 8,
+    "image": "https://es.web.img3.acsta.net/medias/nmedia/18/95/79/36/20427890.jpg",
+    "description": "The Secret Garden is a novel by Frances Hodgson Burnett first published as a book in 1911, after being serialized in The American Magazine between November 1910 and August 1911.",
+    "file": "my_file_28.epub"
+  },
+  {
+    "id": 29,
+    "name": "The Adventures of China Iron",
+    "editorial": "B",
+    "category": "Ficción de aventuras",
+    "author": "Gabriela Cabezón Cámara",
+    "price": 8,
+    "image": "https://acdn.mitiendanube.com/stores/001/029/689/products/china-iron1-dc00be09a22bbd065416427778574286-640-0.png",
+    "description": "The most radical recasting of the classic Martín Fierro: here, the protagonist is his China, who at 14 years old takes advantage of the fact that he is taken away by the law to go out into the world. Finalist book for the 2020 International Booker Prize. One of the best Ibero-American fiction books of 2017 according to The New York Times.",
+    "file": "my_file_29.epub"
+  },
+  {
+    "id": 30,
+    "name": "Cold-blooded",
+    "editorial": "P",
+    "category": "Police",
+    "author": "Truman Capote",
+    "price": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5ULpPjyspCHjvWIsfsN_RSm75bTiie9jTw&s",
+    "description": "In Cold Blood is a testimonial novel by the American journalist and writer Truman Capote. It was started in 1959 and finally published in 1966. To find the necessary documentation for the book, the author carried out exhaustive field work.",
+    "file": "my_file_30.epub"
   }
 ]

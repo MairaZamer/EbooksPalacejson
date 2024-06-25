@@ -230,17 +230,7 @@
     "description": "Elizabeth Bennet meets the handsome and wealthy Mr. Darcy, with whom she quickly begins an intense and complex relationship.",
     "file": "my_file_21.epub"
   },
-  {
-    "id": 22,
-    "name": "Love, women and life",
-    "editorial": "T",
-    "category": "Poesía",
-    "author": "Mario Benedetti",
-    "price": 8,
-    "image": "https://images.cdn2.buscalibre.com/fit-in/360x360/6d/56/6d561ab4ef0ca1439cdff370af526477.jpg",
-    "description": "This book brings together the best love poems by Mario Benedetti. Many of them are on the lips of people, who remember them by heart or have them in mind when scribbling a verse; others have become songs and even graffiti.",
-    "file": "my_file_22.epub"
-  },
+ 
   {
     "id": 23,
     "name": "Almudena",
